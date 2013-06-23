@@ -1,7 +1,7 @@
 minguo_helper
 =============
 
-'minguo_helper' (民國) is a covert helper for Codeigniter.
+'minguo_helper' (民國) is a converter helper for Codeigniter.
 
 ## Files
 ```
