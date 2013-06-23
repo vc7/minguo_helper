@@ -13,9 +13,9 @@ language
 ```
 
 ## Usage
-### Be in their places
+### 1. Be in their places
 First, put `minguo_helper.php` and `minguo_lang.php` into the helper's folder and language's folder.
-### Load
+### 2. Load
 Then, you can load it in when you want to use,
 
 ```
@@ -27,7 +27,7 @@ or just autoload it:
 // in application/config/autoload.php around line 67
 $autoload['helper'] = array('minguo_helper');
 ```
-### Rock and Roll
+### 3. Rock and Roll
 There are two usage of this helper, one to convert era to minguo year:
 
 ```
@@ -43,3 +43,5 @@ convert_minguo(102,FALSE);
 ```
 ## License
 Feel free to use this helper without any license.
+
+Vincent, 2013
