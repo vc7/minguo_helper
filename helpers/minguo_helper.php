@@ -1,6 +1,6 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-if ( ! function_exists('get_minguo'))
+if ( ! function_exists('convert_minguo'))
 {
     function convert_minguo($year = 1912,$is_to_minguo = TRUE)
     {
